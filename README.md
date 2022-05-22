@@ -4,10 +4,6 @@
 
 ## Resume Website created using Django Framework.
 
-## Allows the manager the have full managerial control over his business
-
-### The manager or admin can Add, Delete, manage and Search Orders, Customer, Suppliers, Employees, and Billing.
-
 To use/view this system you need to:
 
 1- Clone or Download this repository
