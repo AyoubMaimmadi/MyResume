@@ -14,9 +14,9 @@ To use/view this system you need to:
 
 4- open terminal and cd into the environment: `workon <name>`
 
-##### - `python manage.py runserver` to open development at the environment you created
+##### - run `python manage.py runserver` to open development at the environment you created
 
-##### All the commands used to create the project:
+##### All the commands used to create this website:
 
 ```
 py -3 -m venv <name>
