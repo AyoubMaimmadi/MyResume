@@ -21,8 +21,6 @@ To use/view this system you need to:
 ```
 py -3 -m venv <name>
 pip install django Pillow django-ckeditor
-mkdir dev
-cd dev
 virtualenv
 py -3 -m venv <name>
 python -m virtualenv <name>
